@@ -1,0 +1,13 @@
+C:\Users\josti\source\repos\multihilos\multihilos\bin\Debug\netcoreapp3.1\multihilos.exe
+C:\Users\josti\source\repos\multihilos\multihilos\bin\Debug\netcoreapp3.1\multihilos.deps.json
+C:\Users\josti\source\repos\multihilos\multihilos\bin\Debug\netcoreapp3.1\multihilos.runtimeconfig.json
+C:\Users\josti\source\repos\multihilos\multihilos\bin\Debug\netcoreapp3.1\multihilos.runtimeconfig.dev.json
+C:\Users\josti\source\repos\multihilos\multihilos\bin\Debug\netcoreapp3.1\multihilos.dll
+C:\Users\josti\source\repos\multihilos\multihilos\bin\Debug\netcoreapp3.1\multihilos.pdb
+C:\Users\josti\source\repos\multihilos\multihilos\obj\Debug\netcoreapp3.1\multihilos.csprojAssemblyReference.cache
+C:\Users\josti\source\repos\multihilos\multihilos\obj\Debug\netcoreapp3.1\multihilos.AssemblyInfoInputs.cache
+C:\Users\josti\source\repos\multihilos\multihilos\obj\Debug\netcoreapp3.1\multihilos.AssemblyInfo.cs
+C:\Users\josti\source\repos\multihilos\multihilos\obj\Debug\netcoreapp3.1\multihilos.csproj.CoreCompileInputs.cache
+C:\Users\josti\source\repos\multihilos\multihilos\obj\Debug\netcoreapp3.1\multihilos.dll
+C:\Users\josti\source\repos\multihilos\multihilos\obj\Debug\netcoreapp3.1\multihilos.pdb
+C:\Users\josti\source\repos\multihilos\multihilos\obj\Debug\netcoreapp3.1\multihilos.genruntimeconfig.cache
